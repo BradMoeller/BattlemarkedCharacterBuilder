@@ -1,0 +1,9 @@
+.gradle/
+.kotlin/
+build/
+**/build/
+.vercel/
+.claude/
+local.properties
+.idea/
+.DS_Store
